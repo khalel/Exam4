@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YwzWfEZ/YYSFXuBGM2jrKIUGRZGgszGNB/yvZFygGe0=",
+  "Source": "CarepatronHealthcareProvider.Api",
+  "BasePath": "_content/CarepatronHealthcareProvider.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

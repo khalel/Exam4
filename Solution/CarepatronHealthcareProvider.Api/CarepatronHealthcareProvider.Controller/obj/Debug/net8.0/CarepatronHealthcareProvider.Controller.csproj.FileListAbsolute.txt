@@ -1,0 +1,11 @@
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\bin\Debug\net8.0\CarepatronHealthcareProvider.Controller.deps.json
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\bin\Debug\net8.0\CarepatronHealthcareProvider.Controller.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\bin\Debug\net8.0\CarepatronHealthcareProvider.Controller.pdb
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.AssemblyInfoInputs.cache
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.AssemblyInfo.cs
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.csproj.CoreCompileInputs.cache
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\refint\CarepatronHealthcareProvider.Controller.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\CarepatronHealthcareProvider.Controller.pdb
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Controller\obj\Debug\net8.0\ref\CarepatronHealthcareProvider.Controller.dll

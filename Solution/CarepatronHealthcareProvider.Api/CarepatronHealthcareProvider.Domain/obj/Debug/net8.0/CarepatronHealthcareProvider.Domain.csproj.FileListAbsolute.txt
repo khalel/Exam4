@@ -1,0 +1,15 @@
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\bin\Debug\net8.0\CarepatronHealthcareProvider.Domain.deps.json
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\bin\Debug\net8.0\CarepatronHealthcareProvider.Domain.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\bin\Debug\net8.0\CarepatronHealthcareProvider.Domain.pdb
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.AssemblyInfoInputs.cache
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.AssemblyInfo.cs
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.csproj.CoreCompileInputs.cache
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\refint\CarepatronHealthcareProvider.Domain.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.pdb
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\ref\CarepatronHealthcareProvider.Domain.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\bin\Debug\net8.0\CarepatronHealthcareProvider.Contract.dll
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\bin\Debug\net8.0\CarepatronHealthcareProvider.Contract.pdb
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.csproj.AssemblyReference.cache
+D:\- Files\01_Jigs\Carepatron\Solution\CarepatronHealthcareProvider.Api\CarepatronHealthcareProvider.Domain\obj\Debug\net8.0\CarepatronHealthcareProvider.Domain.csproj.CopyComplete

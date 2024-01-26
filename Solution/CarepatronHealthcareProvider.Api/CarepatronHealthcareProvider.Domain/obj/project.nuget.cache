@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "45wOC3AsrFlkFabkVoLxkGM8Tdyko6cmtol0Tt9g1/2GQgZnWmmnyEtkMJEi3McIvjfasL+NFzGPOgMlHLbgOA==",
+  "success": true,
+  "projectFilePath": "D:\\- Files\\01_Jigs\\Carepatron\\Solution\\CarepatronHealthcareProvider.Api\\CarepatronHealthcareProvider.Domain\\CarepatronHealthcareProvider.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jigs\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
